@@ -28,9 +28,12 @@ Na preparação dos dados foram aplicadas as seguintes técnicas:
 5 - Gerar artefatos para implantação do data prep realizado
 
 No processo de modelagem
+
 a) foi feito o treinamento de três modelos diferentes
   - GradientBoostingRegressor
   - lightgbm
   - RandomForestRegressor
+    
 b) O desempenho do modelo foi medido pelo R².
+
 c)  Ajuste dos hiperparâmetros usando validação cruzada.
