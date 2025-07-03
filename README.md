@@ -20,6 +20,7 @@ Na análise de dados verificamos:
 - Quais foram os bairros que mais venderam nos meses de Maio a Junho?
 
 Na preparação dos dados foram aplicadas as seguintes técnicas:
+
 1 - Gerar Metadados da ABT (Tabela Analítica de Modelagem);
 
 2 - Tratamento de missing (nulos);
