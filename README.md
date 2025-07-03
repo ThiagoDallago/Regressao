@@ -20,12 +20,17 @@ Na análise de dados verificamos:
 - Quais foram os bairros que mais venderam nos meses de Maio a Junho?
 
 Na preparação dos dados foram aplicadas as seguintes técnicas:
-1 - Gerar Metadados da ABT (Tabela Analítica de Modelagem)
-2 - Tratamento de missing (nulos)
-3 - Tratamento de categóricas de alta cardinalidade (LabelEncoder)
-4 - Tratamento de categóricas de baixa cardinalidade (OneHotEncoder)
-5 - Aplicar normalização a toda tabela de modelagem (ABT)
-5 - Gerar artefatos para implantação do data prep realizado
+1 - Gerar Metadados da ABT (Tabela Analítica de Modelagem);
+
+2 - Tratamento de missing (nulos);
+
+3 - Tratamento de categóricas de alta cardinalidade (LabelEncoder);
+
+4 - Tratamento de categóricas de baixa cardinalidade (OneHotEncoder);
+
+5 - Aplicar normalização a toda tabela de modelagem (ABT);
+
+5 - Gerar artefatos para implantação do data prep realizado.
 
 No processo de modelagem
 
