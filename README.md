@@ -31,7 +31,7 @@ Na preparação dos dados foram aplicadas as seguintes técnicas:
 
 5 - Aplicar normalização a toda tabela de modelagem (ABT);
 
-5 - Gerar artefatos para implantação do data prep realizado.
+6 - Gerar artefatos para implantação do data prep realizado.
 
 No processo de modelagem
 
